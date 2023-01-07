@@ -1,0 +1,29 @@
+/* Variables */
+:root {
+    --color-red: #D93F3F;
+    --color-btn: #D93F3F;
+}
+
+/*Reset*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+a {
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+input {
+    outline: none;
+}
